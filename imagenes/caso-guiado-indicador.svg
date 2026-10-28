@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Caso guiado: lectura del indicador de casos resueltos</title>
+  <desc id="desc">Tablero ficticio de octubre de 2026. Centro muestra 510 casos resueltos y semáforo verde; Norte muestra 480. El desglose visible de Centro suma 460. La fecha de actualización, la definición de resuelto, los límites del semáforo y el filtro de tipo de caso están pendientes de confirmar.</desc>
+  <rect width="1200" height="680" fill="#f3f6f8"/>
+  <rect x="42" y="36" width="1116" height="608" rx="24" fill="#ffffff" stroke="#d9e1e8" stroke-width="2"/>
+  <text x="82" y="92" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#557080" letter-spacing="2">INFORME DE ATENCIÓN · CASO FICTICIO</text>
+  <text x="82" y="145" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#17324d">Casos resueltos</text>
+  <rect x="900" y="62" width="210" height="54" rx="27" fill="#eaf0f5"/>
+  <text x="1005" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#34546b">OCTUBRE 2026</text>
+  <rect x="82" y="180" width="500" height="174" rx="18" fill="#f5fbf5" stroke="#cfe6d0" stroke-width="2"/>
+  <text x="112" y="222" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#557080">SUCURSAL CENTRO</text>
+  <text x="112" y="302" font-family="Arial, sans-serif" font-size="68" font-weight="700" fill="#17324d">510</text>
+  <text x="260" y="299" font-family="Arial, sans-serif" font-size="22" fill="#557080">casos resueltos</text>
+  <rect x="430" y="238" width="112" height="54" rx="27" fill="#dff2df"/>
+  <circle cx="458" cy="265" r="9" fill="#3a9b52"/>
+  <text x="485" y="273" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#26743a">VERDE</text>
+  <rect x="606" y="180" width="512" height="174" rx="18" fill="#f7f9fb" stroke="#d9e1e8" stroke-width="2"/>
+  <text x="636" y="222" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#557080">SUCURSAL NORTE</text>
+  <text x="636" y="302" font-family="Arial, sans-serif" font-size="68" font-weight="700" fill="#17324d">480</text>
+  <text x="784" y="299" font-family="Arial, sans-serif" font-size="22" fill="#557080">casos resueltos</text>
+  <text x="82" y="398" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#17324d">Al abrir el desglose de Centro</text>
+  <rect x="82" y="420" width="1036" height="77" rx="14" fill="#fff7e8" stroke="#f0d6a9" stroke-width="2"/>
+  <text x="112" y="469" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#8a5a12">Total del indicador: 510</text>
+  <text x="650" y="469" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#8a5a12">Suma visible del desglose: 460</text>
+  <text x="82" y="543" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#557080">FALTA CONFIRMAR</text>
+  <text x="82" y="582" font-family="Arial, sans-serif" font-size="20" fill="#34546b">Actualización · definición de “resuelto” · límites del verde · filtro de tipo de caso</text>
+  <text x="82" y="617" font-family="Arial, sans-serif" font-size="16" fill="#718493">¿Podemos usar el 510 para decidir? Primero, revisemos qué sabemos y qué falta.</text>
+</svg>
