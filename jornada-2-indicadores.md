@@ -366,34 +366,30 @@ Respondé cada uno en una sola frase:
 
 ---
 
-## Práctica en clase · ¿Podemos usar este número para decidir?
+## Práctica en clase · Pedí un gráfico que te ayude
 
-**Tiempo:** 15 minutos. **Modalidad:** práctica oral durante la clase virtual, individual o en parejas. No hay entrega escrita.
+**Tiempo:** 15 minutos. **Modalidad:** individual o en parejas. La idea es practicar cómo explicar a Sistemas qué gráfico necesitás y para qué.
 
-### La situación
+### Tu tarea
 
-Imaginá que tenés que organizar la cobertura de atención de la semana próxima. Mirás el tablero y ves esto:
+Pensá en una pregunta de gestión que te gustaría responder con un informe. Puede ser de tu función o una de estas:
 
-- Sucursal Centro, octubre: **510 casos resueltos**, en **verde**.
-- Abrís el desglose y las partes visibles suman **460**, no 510.
-- Otro informe que te pasaron por otro canal dice **495**.
-- Todavía no sabés: cuándo se actualizó el tablero, qué cuenta como “resuelto” ni desde cuándo el verde es verde.
+- ¿Cómo cambió la cantidad de casos mes a mes?
+- ¿Qué parte de las ventas corresponde a cada canal?
+- ¿Qué sucursal recibió más reclamos?
 
-Tu responsable te pregunta: *“¿Podemos usar el 510 para justificar el cambio de cobertura?”*
+Después, seguí estos pasos:
 
-### Tu tarea: respondé en voz alta en 3 pasos
+1. **Elegí la pregunta** que querés responder y el indicador que necesitás mirar.
+2. **Proponé un gráfico** que ayude a responderla: línea para ver cambios en el tiempo, torta para repartir un total entre pocas categorías, columnas para comparar categorías.
+3. **Usá la plantilla “Copiá y completá”** de la sección anterior para redactar el pedido a Sistemas. Indicá qué informe querés mejorar, qué pregunta necesitás responder, qué gráfico proponés y qué período o filtros deberían verse.
 
-Hacelo con frases cortas, como si le estuvieras contestando a tu responsable:
+No hace falta explicar cómo construir el gráfico. Lo importante es que Sistemas entienda qué necesitás ver y para qué decisión te serviría. Si no conocés algún dato —por ejemplo, el nombre del informe o los filtros disponibles—, anotá que necesitás confirmarlo.
 
-1. **¿Qué veo?** Decí el número, el período y la sucursal, tal como aparecen en pantalla.
-2. **¿Qué me falta para estar seguro?** Elegí 2 dudas de esta lista: fecha de actualización, definición de “resuelto”, por qué el desglose suma distinto, por qué el otro informe dice 495, o qué significa el verde.
-3. **¿Qué le respondo a mi responsable?** Elegí una opción y explicala en una frase:
-   - *“Sí, usemos el 510 porque…”*
-   - *“Usémoslo como referencia provisoria, pero…”*
-   - *“Mejor esperemos y primero valido…”*
+### Ejemplo
 
-Después, practicá cómo pedirías esa información, en una sola frase. Por ejemplo: *“Veo 510 en el tablero y 495 en el otro informe de octubre; ¿usan el mismo período y los mismos filtros?”*
+> En el informe de ventas, quisiera ver cómo cambia la facturación por canal mes a mes durante este año. Propongo un gráfico de líneas para comparar la evolución de los canales. ¿Podrían incluir el período y los filtros aplicados, y confirmar cuándo se actualizan los datos? Lo necesito para organizar las acciones comerciales del próximo trimestre.
 
 ### Cierre en clase
 
-Comentamos entre todos: ¿qué dato observaron?, ¿qué duda les pareció más importante?, ¿cómo lo preguntarían? La idea es practicar tres gestos: describir lo que se ve, frenar antes de decidir sin contexto y pedir la aclaración justa.
+Compartí tu pedido con el grupo. Entre todos, revisen: ¿se entiende qué pregunta querés responder?, ¿el gráfico propuesto sirve para esa pregunta?, ¿incluiste el contexto necesario? Así practicamos cómo convertir una necesidad de gestión en un pedido claro para Sistemas.
